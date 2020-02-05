@@ -1,3 +1,3 @@
 # BobBagwill.github.io
 ## Casa Bagwill
-This is not placehold text.
+This is not placeholder text.
